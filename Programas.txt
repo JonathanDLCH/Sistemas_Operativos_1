@@ -1,0 +1,3 @@
+./Señales_Par_Impar 
+./PIPES_ESdatos 5
+./Testsim 5 10
